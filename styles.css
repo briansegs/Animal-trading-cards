@@ -19,15 +19,19 @@ body {
 .sam {
     background-image: url(back_image_Sam.jpg);
 }
+
 .cat {
     background-image: url(back_image_cat.jpg);
 }
+
 .pdog {
     background-image: url(back_image_pdog.jpg);
 }
+
 .sable {
     background-image: url(back_image_sable.jpg);
 }
+
 .birds {
     background-image: url(back_image_birds.jpg);
 }
