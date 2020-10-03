@@ -6,3 +6,7 @@ This was a project i completed for Udacity's Introduction to programming. I subm
 
 After I submitted and passed this project I decided to fix all of my mistakes and make another set of cards for fun. Now there are 10 in all! Im really happy with the way they turned out and I learned so much from this project.
 
+Animal Trading Cards: 
+![cards 1](https://briansegs.github.io/HTML-and-CSS-notes/cards.JPG)
+![cards 2](https://briansegs.github.io/HTML-and-CSS-notes/cards2.JPG)
+
