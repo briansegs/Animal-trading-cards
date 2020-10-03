@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov');
+
 body {
     font-family: 'Volkhov';
     font-size: 15px;
@@ -86,7 +88,6 @@ span {
 
 ul{
     color: rgb(20, 20, 20);
-    padding: 0px;
     word-spacing: 1px;
 }
 
