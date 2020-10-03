@@ -36,6 +36,26 @@ body {
     background-image: url(back_image_birds.jpg);
 }
 
+.horses {
+    background-image: url(back_image_horse.jpg);
+}
+
+.ape {
+    background-image: url(back_image_ape.jpg);
+}
+
+.spider {
+    background-image: url(back_image_spider.jpg);
+}
+
+.elephant {
+    background-image: url(back_image_elephant.jpg);
+}
+
+.shark {
+    background-image: url(back_image_shark.jpg);
+}
+
 h3 {
     margin-top: 2.72px; 
     color: rgb(20, 20, 20);
